@@ -86,8 +86,8 @@ git clone https://github.com/prathamprabhu05/ART.git
 - **Pratham M Prabhu** – VR Development & Unity Programming
   - GitHub: https://github.com/prathamprabhu05
 
-- **Dinesh Z Shetty** – VR Development & Unity Programming
-  - GitHub: https://github.com/DZ1shetty :contentReference[oaicite:0]{index=0}
+- **Dhanush G Shetty** – VR Development & Unity Programming
+  - GitHub: https://github.com/DZ1shetty
 
 ---
 
