@@ -86,7 +86,7 @@ git clone https://github.com/prathamprabhu05/ART.git
 ## 📌 Future Improvements
 
 - Hand Tracking Support
-- Voice-guided Art Tours
+- Voice-Guided Art Tours
 - Multiplayer Experience
 - Interactive Artwork Information
 - AI-powered Virtual Guide
