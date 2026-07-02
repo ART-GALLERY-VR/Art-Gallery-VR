@@ -9,13 +9,13 @@ An immersive **Virtual Reality (VR) Art Gallery** built with **Unity** and the *
 ## 🎥 Demo
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=ybLaSnqHRa4" target="_blank">
-    <img src="Images/demo-thumbnail.png" alt="ART VR Demo" width="850">
+  <a href="https://www.youtube.com/watch?v=ybLaSnqHRa4">
+    <img src="Images/demo-thumbnail.png" alt="ART Demo" width="850">
   </a>
 </p>
 
 <p align="center">
-  <strong>Click the image above to watch the demo.</strong>
+  <b>Click the image above to watch the demo on YouTube.</b>
 </p>
 
 ---
@@ -48,10 +48,10 @@ An immersive **Virtual Reality (VR) Art Gallery** built with **Unity** and the *
 ```text
 ART
 ├── Assets/
-├── Packages/
-├── ProjectSettings/
 ├── Images/
 │   └── demo-thumbnail.png
+├── Packages/
+├── ProjectSettings/
 └── README.md
 ```
 
@@ -59,36 +59,29 @@ ART
 
 ## 🚀 Getting Started
 
-### 1. Clone the repository
+1. Clone the repository:
 
 ```bash
 git clone https://github.com/prathamprabhu05/ART.git
 ```
 
-### 2. Open the project
-
-Open the project using **Unity Hub** with **Unity 2022** (or the version specified in the project).
-
-### 3. Install dependencies
-
-Allow Unity to import the project and install any missing packages through the Package Manager.
-
-### 4. Open the main scene
-
-Load the main gallery scene from the **Assets** folder.
-
-### 5. Run on Meta Quest 3
-
-Build and deploy the project to **Meta Quest 3** to experience the virtual gallery.
+2. Open the project in **Unity Hub**.
+3. Allow Unity to import all required packages.
+4. Open the main gallery scene.
+5. Build and run the project on **Meta Quest 3**.
 
 ---
 
 ## 👥 Team
 
-| Name | Role | GitHub |
-|------|------|--------|
-| **Pratham M Prabhu** | VR Development & Unity Programming | https://github.com/prathamprabhu05 |
-| **Dhanush G Shetty** | VR Development & Unity Programming | https://github.com/DZ1shetty |
+| Name | Role |
+|------|------|
+| **Pratham M Prabhu** | VR Development & Unity Programming |
+| **Dhanush G Shetty** | VR Development & Unity Programming |
+
+GitHub:
+- https://github.com/prathamprabhu05
+- https://github.com/DZ1shetty
 
 ---
 
@@ -104,10 +97,10 @@ Build and deploy the project to **Meta Quest 3** to experience the virtual galle
 
 ## 📄 License
 
-This project is intended for **educational and portfolio purposes**.
+This project is intended for educational and portfolio purposes.
 
 ---
 
 <p align="center">
-  Made with ❤️ using Unity and Meta Quest 3
+Made with ❤️ using Unity & Meta Quest 3
 </p>
